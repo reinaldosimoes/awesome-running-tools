@@ -101,6 +101,7 @@ _Resources for learning about running, training methodologies, and structured pl
 
 - [Jack Daniels' VDOT Running Calculator](https://runsmartproject.com/calculator/) — Calculate training paces and race predictions based on your fitness.
 - [McMillan Running Calculator](https://www.mcmillanrunning.com/) — Personalized training paces and plans for runners.
+- [Pace Playground](https://www.defy.org/hacks/paceplayground/) — Interactive pace calculator for planning race strategies and training paces.
 
 ## Motivation and Community
 
