@@ -1,7 +1,9 @@
-# 🏃‍♂️ Awesome Running Tools
+# Awesome Running Tools
 
 A curated collection of **web tools, apps, and resources** for runners of all levels.
 Find tools for training, planning, tracking, and improving your running experience.
+
+![Running track](https://images.pexels.com/photos/19190279/pexels-photo-19190279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 [![Awesome Badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/reinaldosimoes/awesome-running-tools/pulls)
@@ -12,7 +14,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 
 ## Contents
 
-- [🏃‍♂️ Awesome Running Tools](#️-awesome-running-tools)
+- [Awesome Running Tools](#awesome-running-tools)
   - [Contents](#contents)
   - [Weather and Conditions](#weather-and-conditions)
   - [Training and Planning](#training-and-planning)

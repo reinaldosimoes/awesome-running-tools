@@ -133,8 +133,8 @@ https://www.contributor-covenant.org/translations.
 For questions or concerns about this Code of Conduct, please contact the project maintainer:
 
 - **GitHub**: [@reinaldosimoes](https://github.com/reinaldosimoes)
-- **Email**: [Add your email if you'd like to share it publicly]
+- **Email**: me@reinaldo.pt
 
 ---
 
-_This Code of Conduct was last updated on January 2025._
+_This Code of Conduct was last updated on July 2025._
