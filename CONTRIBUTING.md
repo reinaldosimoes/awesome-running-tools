@@ -1,10 +1,10 @@
-# Contributing to Awesome Running Tools 🏃‍♂️
+# Contributing to Awesome Running Tools
 
 Thank you for your interest in making Awesome Running Tools even better! This is a community-driven project, and we welcome contributions from runners of all levels and backgrounds.
 
 ---
 
-## 🚀 Quickstart: How to Contribute
+## Quickstart: How to Contribute
 
 1. **Find or create an issue**: Suggest a tool or improvement via [Issues](https://github.com/reinaldosimoes/awesome-running-tools/issues).
 2. **Fork & branch**: Fork the repo and create a new branch for your changes.
@@ -14,18 +14,18 @@ Thank you for your interest in making Awesome Running Tools even better! This is
 
 ---
 
-## 📝 Tool Submission Template
+## Tool Submission Template
 
 Please use this format when adding a new tool:
 
 ```markdown
-[Tool Name](full URL) — Brief description of what it does.
+- [Tool Name](full URL) — Brief description of what it does.
 ```
 
 **Example:**
 
 ```markdown
-[WeatherToRun](https://weathertorun.app/) — Brief description of what it does.
+- [WeatherToRun](https://weathertorun.app/) — Weather-based running condition advisor that helps determine optimal running conditions.
 ```
 
 **Checklist:**
@@ -37,7 +37,7 @@ Please use this format when adding a new tool:
 
 ---
 
-## ✅ What We Accept
+## What We Accept
 
 - Web-based tools accessible via browser
 - Mobile apps (iOS/Android) that are publicly available
@@ -45,7 +45,7 @@ Please use this format when adding a new tool:
 - Running-specific tools or those commonly used by runners
 - Active and maintained tools
 
-## ❌ What We Don't Accept
+## What We Don't Accept
 
 - Broken or non-functional links
 - Tools that require paid subscriptions only
@@ -53,7 +53,7 @@ Please use this format when adding a new tool:
 - Self-promotion without clear value to the running community
 - Tools that violate privacy or security best practices
 
-## 📋 Categories
+## Categories
 
 Add your tool to the most appropriate section:
 
@@ -70,7 +70,7 @@ Add your tool to the most appropriate section:
 
 ---
 
-## 🛠️ Development & Documentation
+## Development & Documentation
 
 Want to help with repo structure or docs?
 
@@ -82,18 +82,10 @@ Want to help with repo structure or docs?
 
 ---
 
-## 🙏 Recognition
-
-Contributors are recognized in:
-
-- The README (for significant contributions)
-- Release notes
-- Community shoutouts
-
-## 📄 License
+## License
 
 By contributing, you agree your submissions are under the project license.
 
 ---
 
-Thank you for helping make this collection better for the running community! 🏃‍♂️💨
+Thank you for helping make this collection better for the running community!

@@ -32,11 +32,11 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 
 ## Weather and Conditions
 
-[WeatherToRun](https://weathertorun.app/) — Weather-based running condition advisor that helps determine optimal running conditions.
+- [WeatherToRun](https://weathertorun.app/) — Weather-based running condition advisor that helps determine optimal running conditions.
 
 ## Training and Planning
 
-[Calendar Hack](https://www.defy.org/hacks/calendarhack/) — Quick calendar tool for date calculations and viewing.
+- [Calendar Hack](https://www.defy.org/hacks/calendarhack/) — Quick calendar tool for date calculations and viewing.
 
 ## Performance Tracking
 
