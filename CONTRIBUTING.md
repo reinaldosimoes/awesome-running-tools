@@ -67,6 +67,7 @@ Add your tool to the most appropriate section:
 - **Mobile Apps**: Mobile-specific running apps
 - **Education and Training Plans**: Learning resources, training plans
 - **Motivation and Community**: Social features, motivation tools
+- **Gamification**: Game-like elements, challenges, achievements
 
 ---
 

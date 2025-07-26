@@ -26,6 +26,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
   - [Mobile Apps](#mobile-apps)
   - [Education and Training Plans](#education-and-training-plans)
   - [Motivation and Community](#motivation-and-community)
+  - [Gamification](#gamification)
   - [Contributing](#contributing)
     - [Adding New Tools Format](#adding-new-tools-format)
       - [Example:](#example)
@@ -35,58 +36,87 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 ## Weather and Conditions
 
 - [WeatherToRun](https://weathertorun.app/) — Weather-based running condition advisor that helps determine optimal running conditions.
+- [AccuWeather Running Forecast](https://www.accuweather.com/en/us/national/running-weather) — Provides running-specific weather forecasts to help you plan your runs.
 
 ## Training and Planning
 
 - [Calendar Hack](https://www.defy.org/hacks/calendarhack/) — Quick calendar tool for date calculations and viewing.
+- [Strava Route Builder](https://www.strava.com/routes/new) — Plan and create custom running routes, analyze elevation, and sync with your GPS device.
+- [Runkeeper](https://runkeeper.com/) — From Asics, it offers training plans, goal setting, and progress tracking for runners of all levels.
 
 ## Performance Tracking
 
 _Tools for analyzing runs, tracking progress, and monitoring performance metrics_
 
-_(Coming soon - add your favorite tools!)_
+- [Garmin Connect](https://connect.garmin.com/) — Analyze your runs, track progress, and join challenges (requires Garmin device).
+- [Strava](https://www.strava.com/) — Social network for athletes, track your runs, analyze performance, and connect with other runners.
+- [MapMyRun](https://www.mapmyrun.com/) — Track and analyze your runs, set goals, and discover new routes.
 
 ## Route Planning
 
 _Tools for planning running routes, finding new paths, and exploring terrain_
 
-_(Coming soon - add your favorite tools!)_
+- [Plotaroute](https://www.plotaroute.com/) — Plan, share, and discover running routes with detailed mapping tools.
+- [Komoot](https://www.komoot.com/) — Plan running routes with turn-by-turn navigation and terrain analysis.
+- [On The Go Map](https://onthegomap.com/) — Simple tool for mapping running routes and calculating distances.
 
 ## Nutrition and Hydration
 
 _Tools for meal planning, hydration tracking, and fueling strategies_
 
-_(Coming soon - add your favorite tools!)_
+- [MyFitnessPal](https://www.myfitnesspal.com/) — Track nutrition, hydration, and calories to support your running goals.
+- [Tailwind Nutrition Calculator](https://www.tailwindnutrition.com/pages/how-to-use-tailwind) — Calculate hydration and fueling needs for long runs and races.
 
 ## Race Planning
 
 _Tools for finding races, registration, and race-day preparation_
 
-_(Coming soon - add your favorite tools!)_
+- [Race Roster](https://raceroster.com/) — Find, register, and plan for running races worldwide.
+- [RunSignUp](https://runsignup.com/) — Search for races, register, and manage your race calendar.
+- [World's Marathons](https://worldsmarathons.com/) — Discover and register for marathons and other running events globally.
+- [NYRR (New York Road Runners)](https://www.nyrr.org/) — Organizes races and running events in New York City, including the NYC Marathon.
+- [Running in the USA](https://www.runningintheusa.com/) — Comprehensive directory of running races and events across the United States.
+- [Find a Race](https://findarace.com/) — Search for running, triathlon, and obstacle races in the UK and worldwide.
+- [Spartan Race](https://www.spartan.com/) — Official site for Spartan obstacle course races, with event listings, registration, and training resources.
 
 ## Gear and Equipment
 
 _Tools for gear recommendations, reviews, and equipment tracking_
 
-_(Coming soon - add your favorite tools!)_
+- [RunRepeat](https://runrepeat.com/) — In-depth reviews and comparisons of running shoes and gear.
+- [Clever Training](https://www.clevertraining.com/) — Shop for running gear, GPS watches, and accessories.
 
 ## Mobile Apps
 
 _Essential mobile apps for runners (iOS/Android)_
 
-_(Coming soon - add your favorite apps!)_
+- [Nike Run Club](https://www.nike.com/nrc-app) — GPS run tracking, guided runs, and coaching plans.
+- [Zwift Run](https://zwift.com/run) — Virtual running platform for treadmill workouts and races.
+- [Couch to 5K](https://www.c25kfree.com/) — Beginner-friendly app to help new runners train for their first 5K.
+- [Strava App](https://www.strava.com/mobile) — Mobile app for tracking runs, analyzing performance, and connecting with the global running community.
 
 ## Education and Training Plans
 
 _Resources for learning about running, training methodologies, and structured plans_
 
-_(Coming soon - add your favorite resources!)_
+- [Jack Daniels' VDOT Running Calculator](https://runsmartproject.com/calculator/) — Calculate training paces and race predictions based on your fitness.
+- [McMillan Running Calculator](https://www.mcmillanrunning.com/) — Personalized training paces and plans for runners.
 
 ## Motivation and Community
 
 _Tools for staying motivated, finding running groups, and connecting with other runners_
 
-_(Coming soon - add your favorite community tools!)_
+- [parkrun](https://www.parkrun.com/) — Free, weekly, timed 5K events in parks around the world.
+- [Reddit r/running](https://www.reddit.com/r/running/) — Online community for runners to share advice, stories, and motivation.
+- [Strava Clubs](https://www.strava.com/clubs) — Join running clubs and connect with local and global running communities.
+
+## Gamification
+
+_Tools that make running more engaging through challenges, achievements, and game-like elements_
+
+- [Wandrer](https://wandrer.earth/) — Explore your city by running every street and track your progress with gamified achievements.
+- [CityStrides](https://citystrides.com/) — Track your progress as you run every street in your city with detailed mapping and statistics.
+- [Zombies Run!](https://zombiesrungame.com/) — Immersive running game where you're chased by zombies while completing missions and building your base.
 
 ## Contributing
 
