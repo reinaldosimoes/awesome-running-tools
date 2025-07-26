@@ -1,45 +1,34 @@
-<p align="center">
-  <h1>🏃‍♂️ Awesome Running Tools</h1>
-</p>
+# 🏃‍♂️ Awesome Running Tools
 
-<div align="center">
+A curated collection of **web tools, apps, and resources** for runners of all levels.
+Find tools for training, planning, tracking, and improving your running experience.
 
-<p>
-  A curated collection of <b>web tools, apps, and resources</b> for runners of all levels.<br>
-  Find tools for training, planning, tracking, and improving your running experience.
-</p>
+[![Awesome Badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/reinaldosimoes/awesome-running-tools/pulls)
 
-<p>
-  <a href="https://awesome.re"><img alt="Awesome Badge" src="https://awesome.re/badge-flat.svg"></a>
-  <a href="https://github.com/reinaldosimoes/awesome-running-tools/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-</p>
-
-<p>
-  <i>Contributions welcome! Feel free to submit a pull request to add new tools or improve existing ones.</i><br>
-  Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for formatting and submission details.<br>
-  This project adheres to a <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> to ensure a welcoming environment for all contributors.
-</p>
-
-</div>
+_Contributions welcome! Feel free to submit a pull request to add new tools or improve existing ones._
+Please check the [contribution guidelines](CONTRIBUTING.md) for formatting and submission details.
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for all contributors.
 
 ## Contents
 
-- [Contents](#contents)
-- [Weather and Conditions](#weather-and-conditions)
-- [Training and Planning](#training-and-planning)
-- [Performance Tracking](#performance-tracking)
-- [Route Planning](#route-planning)
-- [Nutrition and Hydration](#nutrition-and-hydration)
-- [Race Planning](#race-planning)
-- [Gear and Equipment](#gear-and-equipment)
-- [Mobile Apps](#mobile-apps)
-- [Education and Training Plans](#education-and-training-plans)
-- [Motivation and Community](#motivation-and-community)
-- [Contributing](#contributing)
-  - [Adding New Tools Format](#adding-new-tools-format)
-    - [Example:](#example)
-    - [Quick Checklist](#quick-checklist)
-- [Community](#community)
+- [🏃‍♂️ Awesome Running Tools](#️-awesome-running-tools)
+  - [Contents](#contents)
+  - [Weather and Conditions](#weather-and-conditions)
+  - [Training and Planning](#training-and-planning)
+  - [Performance Tracking](#performance-tracking)
+  - [Route Planning](#route-planning)
+  - [Nutrition and Hydration](#nutrition-and-hydration)
+  - [Race Planning](#race-planning)
+  - [Gear and Equipment](#gear-and-equipment)
+  - [Mobile Apps](#mobile-apps)
+  - [Education and Training Plans](#education-and-training-plans)
+  - [Motivation and Community](#motivation-and-community)
+  - [Contributing](#contributing)
+    - [Adding New Tools Format](#adding-new-tools-format)
+      - [Example:](#example)
+      - [Quick Checklist](#quick-checklist)
+  - [Community](#community)
 
 ## Weather and Conditions
 
