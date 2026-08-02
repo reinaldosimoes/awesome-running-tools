@@ -68,6 +68,7 @@ _Tools for meal planning, hydration tracking, and fueling strategies_
 
 - [MyFitnessPal](https://www.myfitnesspal.com/) — Track nutrition, hydration, and calories to support your running goals.
 - [Tailwind Nutrition Calculator](https://www.tailwindnutrition.com/pages/how-to-use-tailwind) — Calculate hydration and fueling needs for long runs and races.
+- [Intermittent Fasting Calculator](https://nutilz.com/intermittent-fasting-calculator) — Free tool to plan eating/fasting windows (16:8, 18:6, 20:4) for runners experimenting with fasted training or time-restricted eating.
 
 ## Race Planning
 
