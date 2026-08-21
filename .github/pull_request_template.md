@@ -31,6 +31,7 @@
 - [ ] The tool fits the most appropriate category
 - [ ] I have tested the tool and confirmed it works
 - [ ] My changes follow the established format and style
+- [ ] New tool entries use the `- [Name](URL) - Description.` bullet format inside the appropriate category
 - [ ] My changes don't break any existing functionality
 
 ## New Tool Attestations

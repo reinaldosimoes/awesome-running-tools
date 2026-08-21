@@ -37,13 +37,13 @@ These restrictions apply to new tool submissions. Fixes to existing entries, doc
 Please use this format when adding a new tool:
 
 ```markdown
-- [Tool Name](full URL) — Brief description of what it does.
+- [Tool Name](full URL) - Brief description of what it does.
 ```
 
 **Example:**
 
 ```markdown
-- [WeatherToRun](https://weathertorun.app/) — Weather-based running condition advisor that helps determine optimal running conditions.
+- [WeatherToRun](https://weathertorun.app/) - Weather-based running condition advisor that helps determine optimal running conditions.
 ```
 
 **Checklist:**
