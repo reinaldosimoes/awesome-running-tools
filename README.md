@@ -92,7 +92,6 @@ _Tools for planning running routes, finding new paths, and exploring terrain_
 _Tools for meal planning, hydration tracking, and fueling strategies_
 
 - [MyFitnessPal](https://www.myfitnesspal.com/) - Track nutrition, hydration, and calories to support your running goals.
-- [Tailwind Nutrition Calculator](https://www.tailwindnutrition.com/pages/how-to-use-tailwind) - Calculate hydration and fueling needs for long runs and races.
 
 </details>
 
