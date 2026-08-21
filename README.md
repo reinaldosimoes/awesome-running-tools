@@ -1,12 +1,13 @@
-# Awesome Running Tools
+# Awesome Running Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated collection of **web tools, apps, and resources** for runners of all levels.
-Find tools for training, planning, tracking, and improving your running experience.
+A quality-first, human-reviewed collection of **web tools, apps, and resources** for runners.
+Find useful tools for planning, training, tracking, racing, and improving your running experience.
 
 ![Running track](https://images.pexels.com/photos/19190279/pexels-photo-19190279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-[![Awesome Badge](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/reinaldosimoes/awesome-running-tools/pulls)
+
+⭐ **Useful? [Star this repository](https://github.com/reinaldosimoes/awesome-running-tools) to find it again.**
 
 _Contributions welcome! Feel free to submit a pull request to add new tools or improve existing ones._
 Please check the [contribution guidelines](CONTRIBUTING.md) for formatting and submission details.
@@ -15,24 +16,18 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 
 ## Contents
 
-- [Awesome Running Tools](#awesome-running-tools)
-  - [Contents](#contents)
-  - [Weather and Conditions](#weather-and-conditions)
-  - [Training and Planning](#training-and-planning)
-  - [Performance Tracking](#performance-tracking)
-  - [Route Planning](#route-planning)
-  - [Nutrition and Hydration](#nutrition-and-hydration)
-  - [Race Planning](#race-planning)
-  - [Gear and Equipment](#gear-and-equipment)
-  - [Mobile Apps](#mobile-apps)
-  - [Education and Training Plans](#education-and-training-plans)
-  - [Motivation and Community](#motivation-and-community)
-  - [Gamification](#gamification)
-  - [Contributing](#contributing)
-    - [Adding New Tools Format](#adding-new-tools-format)
-      - [Example:](#example)
-      - [Quick Checklist](#quick-checklist)
-  - [Community](#community)
+- [Weather and Conditions](#weather-and-conditions)
+- [Training and Planning](#training-and-planning)
+- [Performance Tracking](#performance-tracking)
+- [Route Planning](#route-planning)
+- [Nutrition and Hydration](#nutrition-and-hydration)
+- [Race Planning](#race-planning)
+- [Gear and Equipment](#gear-and-equipment)
+- [Mobile Apps](#mobile-apps)
+- [Education and Training Plans](#education-and-training-plans)
+- [Motivation and Community](#motivation-and-community)
+- [Gamification](#gamification)
+- [Community](#community)
 
 ## Weather and Conditions
 
@@ -203,7 +198,7 @@ Please use the following template when adding a new tool:
 - [Tool Name](full URL) - Brief description of what it does (1-2 sentences).
 ```
 
-#### Example:
+#### Example
 
 ```markdown
 - [WeatherToRun](https://weathertorun.app/) - Weather-based running condition advisor that helps determine optimal running conditions.
