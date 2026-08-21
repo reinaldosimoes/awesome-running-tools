@@ -4,6 +4,24 @@ Thank you for your interest in making Awesome Running Tools even better! This is
 
 ---
 
+## Tool Submission Eligibility
+
+We welcome independent tool recommendations, corrections to existing entries, documentation improvements, and repository maintenance.
+
+New tool submissions are eligible only when all of the following are true:
+
+- You do not own, operate, work for, represent, or have a financial interest in the tool.
+- You are not being paid or otherwise compensated to promote the tool.
+- The submission is not part of automated or bulk outreach across curated repositories.
+- You have personally evaluated the tool and can explain its value to runners.
+- You disclose any AI assistance used to prepare the contribution and remain responsible for its accuracy.
+
+Responsible AI assistance with writing or formatting is allowed. Using AI agents or automation to find repositories and mass-submit promotional entries is not allowed.
+
+These restrictions apply to new tool submissions. Fixes to existing entries, documentation improvements, and repository maintenance remain welcome from all contributors.
+
+---
+
 ## Quickstart: How to Contribute
 
 1. **Find or create an issue**: Suggest a tool or improvement via [Issues](https://github.com/reinaldosimoes/awesome-running-tools/issues).
@@ -30,6 +48,7 @@ Please use this format when adding a new tool:
 
 **Checklist:**
 
+- [ ] The submission meets the tool eligibility requirements above
 - [ ] The tool is running-related and useful for runners
 - [ ] The link works and the tool is accessible
 - [ ] The description is clear and concise
@@ -50,7 +69,7 @@ Please use this format when adding a new tool:
 - Broken or non-functional links
 - Tools that require paid subscriptions only
 - Generic tools not specifically useful for runners
-- Self-promotion without clear value to the running community
+- Self-affiliated, paid, automated, or bulk promotional submissions
 - Tools that violate privacy or security best practices
 
 ## Categories

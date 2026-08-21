@@ -33,6 +33,20 @@
 - [ ] My changes follow the established format and style
 - [ ] My changes don't break any existing functionality
 
+## New Tool Attestations
+
+Complete these items when submitting a new tool:
+
+- [ ] I do not own, operate, work for, represent, or have a financial interest in this tool.
+- [ ] I am not being paid or otherwise compensated to promote this tool.
+- [ ] This submission is not part of automated or bulk outreach across curated repositories.
+- [ ] I personally evaluated the tool and can explain its value to runners.
+- [ ] I disclosed below any AI assistance used to prepare this contribution and remain responsible for its accuracy.
+
+## Affiliation and AI Disclosure
+
+State "None" when there is nothing to disclose.
+
 ## Additional Information
 
 [Any additional context or information that might be helpful]

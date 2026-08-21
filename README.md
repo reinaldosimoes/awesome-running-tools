@@ -10,6 +10,7 @@ Find tools for training, planning, tracking, and improving your running experien
 
 _Contributions welcome! Feel free to submit a pull request to add new tools or improve existing ones._
 Please check the [contribution guidelines](CONTRIBUTING.md) for formatting and submission details.
+New tool submissions must be independent recommendations, not self-affiliated, paid, automated, or bulk promotion.
 This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for all contributors.
 
 ## Contents
@@ -124,7 +125,7 @@ _Tools that make running more engaging through challenges, achievements, and gam
 
 ## Contributing
 
-Found a great running tool? We'd love to add it! Please check our <a href="CONTRIBUTING.md">contribution guidelines</a> and submit an issue or pull request.
+Found a great running tool independently? We'd love to consider it! Please check our <a href="CONTRIBUTING.md">contribution guidelines</a> and submit an issue or pull request. We do not accept self-affiliated, paid, automated, or bulk promotional submissions.
 
 **Please note**: This project adheres to a <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>. By participating, you are expected to uphold this code.
 
