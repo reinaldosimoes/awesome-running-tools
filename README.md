@@ -1,9 +1,7 @@
-# Awesome Running Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# ![Awesome Running Tools](assets/social-preview.png) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A quality-first, human-reviewed collection of **web tools, apps, and resources** for runners.
 Find useful tools for planning, training, tracking, racing, and improving your running experience.
-
-[![Running track](https://images.pexels.com/photos/19190279/pexels-photo-19190279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://www.pexels.com/)
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/reinaldosimoes/awesome-running-tools/pulls)
 
