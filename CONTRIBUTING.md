@@ -43,7 +43,7 @@ Please use this format when adding a new tool:
 **Example:**
 
 ```markdown
-- [WeatherToRun](https://weathertorun.app/) - Weather-based running condition advisor that helps determine optimal running conditions.
+- [WeatherToRun](https://weathertorun.app/) - Weather-based guidance for planning when to run.
 ```
 
 **Checklist:**
