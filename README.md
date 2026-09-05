@@ -61,6 +61,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welc
 - [Running in the USA](https://www.runningintheusa.com/) - Comprehensive directory of running races and events across the United States.
 - [Find a Race](https://findarace.com/) - Search for running, triathlon, and obstacle races in the UK and worldwide.
 - [Spartan Race](https://www.spartan.com/) - Official site for Spartan obstacle course races, with event listings, registration, and training resources.
+- [MyNextBib](https://mynextbib.com/) - Discover and register for marathons, half marathons and 10K runs across India, with dates, prices and city filters ([open source](https://github.com/sameer-hoda/run-find-explore-bibs)).
 
 ## Gear and Equipment
 
