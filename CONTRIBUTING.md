@@ -43,7 +43,7 @@ Please use this format when adding a new tool:
 **Example:**
 
 ```markdown
-- [WeatherToRun](https://weathertorun.app/) - Weather-based guidance for planning when to run.
+- [AccuWeather Running Forecast](https://www.accuweather.com/en/us/national/running-weather) - Running forecasts for planning around local weather.
 ```
 
 **Checklist:**
@@ -76,17 +76,12 @@ Please use this format when adding a new tool:
 
 Add your tool to the most appropriate section:
 
-- **Weather and Conditions**: Weather apps, condition checkers
-- **Training and Planning**: Calendars, planners, scheduling tools
-- **Performance Tracking**: Analytics, progress monitoring
-- **Route Planning**: Mapping, route discovery
-- **Nutrition and Hydration**: Meal planning, hydration tracking
-- **Race Planning**: Race finders, registration tools
-- **Gear and Equipment**: Gear reviews, equipment tracking
-- **Mobile Apps**: Mobile-specific running apps
-- **Education and Training Plans**: Learning resources, training plans
-- **Motivation and Community**: Social features, motivation tools
-- **Gamification**: Game-like elements, challenges, achievements
+- **Training and Planning**: Training plans, coaching, pace calculators, and structured workouts
+- **Performance Tracking**: Activity analysis, progress monitoring, and training history
+- **Route Planning**: Mapping, route discovery, navigation, and terrain analysis
+- **Race Discovery and Registration**: Race directories, registration, and event planning
+- **Conditions, Nutrition, and Gear**: Weather, fueling, hydration, shoe, and equipment tools
+- **Motivation and Community**: Running groups, challenges, games, and social communities
 
 ---
 
