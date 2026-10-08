@@ -1,6 +1,6 @@
 # <a href="https://en.wikipedia.org/wiki/Long-distance_running"><img src="assets/social-preview.png" alt="Awesome Running Tools" width="640"></a> [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Recreational and competitive distance running.
+Training, performance tracking, route planning, race discovery, and communities for recreational and competitive distance running.
 
 ## Contents
 
