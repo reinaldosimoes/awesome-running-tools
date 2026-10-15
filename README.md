@@ -23,6 +23,7 @@ Training, performance tracking, route planning, race discovery, and communities 
 - [VDOT O2 Running Calculator](https://vdoto2.com/calculator/) - Training pace and race-performance calculator based on VDOT.
 - [McMillan Running Calculator](https://www.mcmillanrunning.com/) - Training pace and race-time calculator.
 - [Pace Playground](https://www.defy.org/hacks/paceplayground/) - Interactive pace calculator for training and race strategy.
+- [TreadmillPace](https://treadmillpace.com/) - Free treadmill pace calculator that converts between speed, pace, distance, and time for treadmill workouts.
 
 ## Performance Tracking
 
